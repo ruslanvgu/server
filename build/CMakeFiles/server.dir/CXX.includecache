@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ManagerConnection.h
+
+/home/sintez/projects/git/server/src/ManagerConnection.cpp
+ManagerConnection.h
+/home/sintez/projects/git/server/src/ManagerConnection.h
+
+/home/sintez/projects/git/server/src/main.cpp
+ManagerConnection.h
+/home/sintez/projects/git/server/src/ManagerConnection.h
+

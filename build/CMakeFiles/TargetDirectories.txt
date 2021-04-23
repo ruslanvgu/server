@@ -1,0 +1,3 @@
+/home/sintez/projects/git/server/build/CMakeFiles/rebuild_cache.dir
+/home/sintez/projects/git/server/build/CMakeFiles/edit_cache.dir
+/home/sintez/projects/git/server/build/CMakeFiles/server.dir
